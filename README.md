@@ -1,2 +1,1 @@
-# bash_scripts
-bash scripts for a good life
+Bash scripts for organizing the workflow on our computing clusters
